@@ -848,6 +848,10 @@ PrefabInstance:
       value: enemy
       objectReference: {fileID: 0}
     - target: {fileID: 4972802055694576266, guid: f99bbd0754201f448b27f0c455b92b76, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 837f79bcbf98ea946b3c32443e6b3c48, type: 2}
+    - target: {fileID: 4972802055694576266, guid: f99bbd0754201f448b27f0c455b92b76, type: 3}
       propertyPath: m_AnimatePhysics
       value: 1
       objectReference: {fileID: 0}
