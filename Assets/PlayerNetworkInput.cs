@@ -49,7 +49,7 @@ public class PlayerNetworkInput : NetworkBehaviour
         controller.input.x = horizontal;
         controller.input.z = vertical;
 
-        if (jump && controller.animator != null && controller._rigidbody != null)
+        if (jump && controller.isGrounded && !controller.isJumping && controller.animator != null && controller._rigidbody != null)
             controller.Jump();
 
         if (sprint)
