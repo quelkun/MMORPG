@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 68679cb87d19cb848bcee577feadf641
+AssetOrigin:
+  serializedVersion: 1
+  productId: 323802
+  packageName: Enemy&NPC AI
+  packageVersion: 1.0
+  assetPath: Assets/EnemyNPC_AI/Core/NoiseEmitter.cs
+  uploadId: 773232

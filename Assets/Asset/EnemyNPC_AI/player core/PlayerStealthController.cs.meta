@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: c1ebb9eed76a3534e9ebbd492b98bcda
+AssetOrigin:
+  serializedVersion: 1
+  productId: 323802
+  packageName: Enemy&NPC AI
+  packageVersion: 1.0
+  assetPath: Assets/EnemyNPC_AI/player core/PlayerStealthController.cs
+  uploadId: 773232

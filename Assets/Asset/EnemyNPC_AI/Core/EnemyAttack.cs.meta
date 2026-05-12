@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 78048e1a9e21b4e46a009f9dde07b1f2
+AssetOrigin:
+  serializedVersion: 1
+  productId: 323802
+  packageName: Enemy&NPC AI
+  packageVersion: 1.0
+  assetPath: Assets/EnemyNPC_AI/Core/EnemyAttack.cs
+  uploadId: 773232

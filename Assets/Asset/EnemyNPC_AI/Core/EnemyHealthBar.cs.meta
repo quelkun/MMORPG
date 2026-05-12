@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 3eed0359dc191484fa1d3776ca7354af
+AssetOrigin:
+  serializedVersion: 1
+  productId: 323802
+  packageName: Enemy&NPC AI
+  packageVersion: 1.0
+  assetPath: Assets/EnemyNPC_AI/Core/EnemyHealthBar.cs
+  uploadId: 773232

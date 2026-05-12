@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e3937c0e71308524ea0b75bce7e05079
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 323802
+  packageName: Enemy&NPC AI
+  packageVersion: 1.0
+  assetPath: Assets/EnemyNPC_AI/UI/playercanvas.prefab
+  uploadId: 773232

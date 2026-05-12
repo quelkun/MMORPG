@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 8e631d512eb284b4d9ee4648d5c85399
+AssetOrigin:
+  serializedVersion: 1
+  productId: 323802
+  packageName: Enemy&NPC AI
+  packageVersion: 1.0
+  assetPath: Assets/EnemyNPC_AI/Core/Hitbox.cs
+  uploadId: 773232

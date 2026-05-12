@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: ea71ea6cb59c6024596ff0e38f512ce6
+AssetOrigin:
+  serializedVersion: 1
+  productId: 323802
+  packageName: Enemy&NPC AI
+  packageVersion: 1.0
+  assetPath: Assets/EnemyNPC_AI/player core/PlayerDamageReceiver.cs
+  uploadId: 773232

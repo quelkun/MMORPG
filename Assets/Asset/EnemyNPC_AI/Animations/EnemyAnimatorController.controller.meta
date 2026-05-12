@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 19840b21758d51545a38c0c6ee53ec43
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 323802
+  packageName: Enemy&NPC AI
+  packageVersion: 1.0
+  assetPath: Assets/EnemyNPC_AI/Animations/EnemyAnimatorController.controller
+  uploadId: 773232

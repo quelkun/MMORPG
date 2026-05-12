@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 83b7aad3a64d633439331f1bdb73c963
+AssetOrigin:
+  serializedVersion: 1
+  productId: 323802
+  packageName: Enemy&NPC AI
+  packageVersion: 1.0
+  assetPath: Assets/EnemyNPC_AI/Core/PatrolPath.cs
+  uploadId: 773232

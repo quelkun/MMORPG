@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 0d16a8faf6fe18c4cb428f6e6495da8c
+AssetOrigin:
+  serializedVersion: 1
+  productId: 323802
+  packageName: Enemy&NPC AI
+  packageVersion: 1.0
+  assetPath: Assets/EnemyNPC_AI/Core/IDamageable.cs
+  uploadId: 773232

@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 4804bae4820bd5849b4c108bef4771a0
+AssetOrigin:
+  serializedVersion: 1
+  productId: 323802
+  packageName: Enemy&NPC AI
+  packageVersion: 1.0
+  assetPath: Assets/EnemyNPC_AI/Editor/FullEnemySetupWizard.cs
+  uploadId: 773232

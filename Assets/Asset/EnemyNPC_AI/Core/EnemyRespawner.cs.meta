@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: ed74757b780f9624b9e9c6fa87415c51
+AssetOrigin:
+  serializedVersion: 1
+  productId: 323802
+  packageName: Enemy&NPC AI
+  packageVersion: 1.0
+  assetPath: Assets/EnemyNPC_AI/Core/EnemyRespawner.cs
+  uploadId: 773232

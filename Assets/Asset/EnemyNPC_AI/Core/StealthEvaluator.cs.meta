@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 2b7ae95353d37ba489bf469a8eea4f1e
+AssetOrigin:
+  serializedVersion: 1
+  productId: 323802
+  packageName: Enemy&NPC AI
+  packageVersion: 1.0
+  assetPath: Assets/EnemyNPC_AI/Core/StealthEvaluator.cs
+  uploadId: 773232

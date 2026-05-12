@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 939da45da7a15694a8ec0fc55aafa10b
+AssetOrigin:
+  serializedVersion: 1
+  productId: 323802
+  packageName: Enemy&NPC AI
+  packageVersion: 1.0
+  assetPath: Assets/EnemyNPC_AI/player core/PlayerHealth.cs
+  uploadId: 773232

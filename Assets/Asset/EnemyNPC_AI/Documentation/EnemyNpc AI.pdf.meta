@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f68fd8e3ab9074c40abc0ccfc66ca6fd
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 323802
+  packageName: Enemy&NPC AI
+  packageVersion: 1.0
+  assetPath: Assets/EnemyNPC_AI/Documentation/EnemyNpc AI.pdf
+  uploadId: 773232
